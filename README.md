@@ -4,9 +4,7 @@ Nucleoic acid translation tool for Google Chrome.
 
 ## Getting Started
 
-Codon is a Chrome Extension that allows users to quickly convert a sequence of nucleotides into their corresponding amino acids.
-
-For those in need of a quick genetics refresher, please see the following link for more information: https://en.wikipedia.org/wiki/DNA_codon_table
+Codon is a Chrome Extension that allows users to quickly convert a sequence of nucleotides into their corresponding amino acids. For those in need of a quick genetics refresher, please [click here](https://en.wikipedia.org/wiki/DNA_codon_table).
 
 ### Installing
 
