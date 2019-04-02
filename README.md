@@ -21,12 +21,11 @@ Codon is a Chrome Extension that allows users to quickly convert a sequence of n
 4) Click "Load unpacked extension...". In the popup window, navigate to the location on  your computer containing the folder the extension is in. Select the appropriate folder, then click OK.
 
 
-
-You should now see Codon listed on the Chrome Extensions page, and the logo should be visible in the Chrome task bar (in the upper right hand corner of the Chrome browser near the hamburger icon).
+You should now see Codon listed on the Chrome Extensions page, and the logo should be visible in the Chrome task bar (in the upper right hand corner of the Chrome browser near the hamburger icon). The extension is now loaded and ready for use.
 
 ## User Instructions
 
-The extension is now loaded and ready for use. To use the extension, copy a sequence of nucleotides (example: ATGACCATCTTTCCTGGG) and paste it into the textbox with the "Nucleotide Sequence" header. When ready to translate the sequence, click the 'Translate' button, and the translated nucleotide sequence will appear as the corresponding amino acids in the textbox below the 'Translate' button, appropriately labeled "Amino Acid Sequence". 
+To use the extension, copy a sequence of nucleotides (example: ATGACCATCTTTCCTGGG) and paste it into the textbox with the "Nucleotide Sequence" header. When ready to translate the sequence, click the 'Translate' button, and the translated nucleotide sequence will appear as the corresponding amino acids in the textbox below the 'Translate' button, appropriately labeled "Amino Acid Sequence". 
 
 
 
