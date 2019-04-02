@@ -1,5 +1,6 @@
 # codon
 Nucleoic acid translation tool for Google Chrome.
+
 //////////////////////////////////////
 
 Codon is a Chrome Extension that allows users to quickly convert a sequence of nucleotides into their corresponding amino acids.
