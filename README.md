@@ -49,4 +49,4 @@ Completed as final project as part of [CS50 at Harvard](https://cs50.harvard.edu
 
 * Thanks to the professors and TAs of CS50 at Harvard University for their feedback and mentorship throughout the development process. 
 * Thanks to friends and coworkers for answering questions during the development and debugging processes.
-* Template creation guidance from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* README creation guidance from [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
