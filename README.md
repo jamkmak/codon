@@ -39,16 +39,11 @@ The program supports strings of both capitalized and lowercase letters when inpu
 
 ## Authors
 
-* **Jamie Kmak**
+* **Author:** Jamie Kmak
 Completed as final project as part of [CS50 at Harvard](https://cs50.harvard.edu/college/).
-
-Author: Jamie Kmak
-
-Version: 1.1
-
-File created: 08MAY2017
-
-Last updated: 02APR2019
+* **Version:** 1.1
+* **File created:** 08MAY2017
+* **Last updated:** 02APR2019
 
 ## Acknowledgments
 
