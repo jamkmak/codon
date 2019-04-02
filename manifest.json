@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Codon",
+  "description": "Nucleotide translation tool for Google Chrome.",
+  "version": "1.1",
+  "background": {
+    "scripts": ["popup.js"]
+  },
+  "icons": {"48": "dna4.png",
+          "128": "dna4.png" },
+  "browser_action": {
+    "default_title": "Codon",
+    "default_icon": "dna4.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
+
+
+
+

@@ -1,0 +1,27 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html>
+
+<head>
+<script type="text/javascript" src="popup.js"></script>
+<!--<link rel="stylesheet" href="popup.css">-->
+<link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/yeti/bootstrap.min.css" rel="stylesheet" integrity="sha384-HzUaiJdCTIY/RL2vDPRGdEQHHahjzwoJJzGUkYjHVzTwXFQ2QN/nVgX7tzoMW3Ov" crossorigin="anonymous">
+</head>
+    <p>
+	    <label for="input"><b>Nucleotide Sequence:</b><br></label>
+        <textarea class="test" id="nucleotide_seq" name="nucleotide_seq" rows="4" cols="25"></textarea>
+	</p>
+<input type="submit" value="Translate" id="button" class="btn btn-default btn-xs">
+    <p>
+        <label for="input"><b>Amino Acid Sequence:</b><br></label>
+        <textarea id="amino_acid_seq" name="amino_acid_seq" rows="4" cols="25"></textarea>
+    </p>
+
+</html>
+
+
+
