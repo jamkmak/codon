@@ -39,6 +39,9 @@ The program supports strings of both capitalized and lowercase letters when inpu
 //////////////////////////////////////
 
 Author: Jamie Kmak
+
 Version: 1.1
+
 File created: 08MAY2017
+
 Last updated: 02APR2019
